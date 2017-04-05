@@ -54,4 +54,4 @@ cd sin
 screen ./anticrash.sh
 ```
 
-
+<h3>[@Milad0S](https://t.me/Milad0S)</h3>
