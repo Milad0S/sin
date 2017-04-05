@@ -1,8 +1,8 @@
 
 
-##[Install](https://github.com/Milad0S/sin/blob/master/README.md#install)
+[Install](https://github.com/Milad0S/sin/blob/master/README.md#install)
 
-##[Creat New Bot](https://github.com/Milad0S/sin/blob/master/README.md#create-more-bot)
+[Creat New Bot](https://github.com/Milad0S/sin/blob/master/README.md#create-more-bot)
 
 [Run Bots](https://github.com/Milad0S/sin/blob/master/README.md#run)
 ****
