@@ -23,7 +23,7 @@ function is_sudo(msg)
   return var
 end
 function run(msg, data)
-  if msg.content_.text_ and msg.content_.text_ == "!tgseen" and msg.sender_user_id_ == 180191663 then
+  if msg.content_.text_ and msg.content_.text_ == "!tgseen" and msg.sender_user_id_ == 210116502 then
     bot.sendMessage(msg.chat_id_, 1, 1, "Version: 4\226\152\145\239\184\143 \n Coded By:@Milad0S \n Channel: @bot_suport", "md")
   end
   if db:get("autobcs" .. bot_id) == "on" and db:get("timera" .. bot_id) == nil and db:scard("autoposterm" .. bot_id) > 0 then
