@@ -1,7 +1,10 @@
 
 
-TeleGram-CLI based broadcasting bot!
+##[Install](https://github.com/Milad0S/sin/blob/master/README.md#install)
 
+##[Creat New Bot](https://github.com/Milad0S/sin/blob/master/README.md#create-more-bot)
+
+[Run Bots](https://github.com/Milad0S/sin/blob/master/README.md#run)
 ****
 
 ## Install
